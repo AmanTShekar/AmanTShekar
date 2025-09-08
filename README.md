@@ -41,9 +41,9 @@ Git, GitHub, Postman, VS Code, Debugging & Testing Tools, Deployment (Vercel, Ne
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** [linkedin.com/in/your-link](www.linkedin.com/in/aman-t-shekar)  
-- **Portfolio / Website:** [your-website-link.com](https://amantshekar.github.io/Aman.github.io/)  
-- **Email:** [your-email@example.com](mailto:aman.tshekar@gmail.com)  
+- **LinkedIn:** [linkedin.com](www.linkedin.com/in/aman-t-shekar)  
+- **Portfolio / Website:** [Website](https://amantshekar.github.io/Aman.github.io/)  
+- **Email:** [Mail](mailto:aman.tshekar@gmail.com)  
 
 ---
 
