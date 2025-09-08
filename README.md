@@ -15,7 +15,7 @@ React.js, Tailwind CSS, TypeScript, HTML5, CSS3, GSAP, Responsive Design, Animat
 Flask, Django, Python, PHP, REST APIs, GraphQL, MySQL/PostgreSQL, Server-side Rendering  
 
 **AI / Machine Learning / Computer Vision:**  
-YOLOv8, TensorFlow, PyTorch, OpenCV, Google Cloud Vision API, Natural Language Processing (NLP)  
+YOLOv8, TensorFlow, PyTorch, OpenCV, Google Cloud Vision API, NLP  
 
 **Tools & Workflow:**  
 Git, GitHub, Postman, VS Code, Debugging & Testing Tools, Deployment (Vercel, Netlify, Heroku, AWS)  
@@ -37,6 +37,13 @@ Git, GitHub, Postman, VS Code, Debugging & Testing Tools, Deployment (Vercel, Ne
 - Integrate **AI & ML models** into web solutions for smart features  
 - Craft **immersive animations** and interactive visual experiences  
 - Explore **cutting-edge tech** in Python, AI, and web development  
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** [linkedin.com/in/your-link](www.linkedin.com/in/aman-t-shekar)  
+- **Portfolio / Website:** [your-website-link.com](https://amantshekar.github.io/Aman.github.io/)  
+- **Email:** [your-email@example.com](mailto:aman.tshekar@gmail.com)  
 
 ---
 
