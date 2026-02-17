@@ -21,13 +21,18 @@ I engineer **high-performance digital ecosystems** where sophisticated AI meets 
 ---
 
 ### 🛠 TECHNICAL ECOSYSTEM
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend Architecture** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `GSAP` `Redux Toolkit` |
-| **Backend & Logic** | `Node.js` `Python (Django/FastAPI/Flask)` `Express` `PHP` `REST/GraphQL` |
-| **Artificial Intelligence** | `YOLOv8` `OpenCV` `TensorFlow` `Local LLMs (Ollama)` `Computer Vision` |
-| **Cloud & Persistence** | `PostgreSQL` `MongoDB` `AWS (S3/EC2)` `Docker` `Vercel` `Redis` |
 
+| Layer | Stack & Tools |
+| :--- | :--- |
+| **Frontend Architecture** | <p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,threejs" /></p> |
+| **Backend & Logic** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,php" /></p> |
+| **Artificial Intelligence** | <p align="left"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,opencv" /></p> |
+| **Cloud & Persistence** | <p align="left"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,vercel" /></p> |
+
+---
+
+### 🖋️ EXECUTIVE SUMMARY
+I engineer **high-performance digital ecosystems** where sophisticated AI meets seamless user interfaces. With a foundation in the **MERN stack** and **Python-driven intelligence**, I specialize in transforming complex business logic into scalable, immersive applications. My approach prioritizes **architectural integrity, sub-second latency, and minimalist aesthetics.**
 ---
 
 ### ⚙️ CORE COMPETENCIES
