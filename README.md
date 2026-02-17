@@ -1,55 +1,50 @@
-# 👋 Hi, I'm Aman T Shekar
+# ⚡ Aman T Shekar
+### **Full-Stack Engineer | AI Enthusiast | Creative Technologist**
 
-🚀 **Full-Stack Developer | AI & Web Innovator | Creative Technologist**  
-
-I build **dynamic, high-performance web applications** and **AI-powered tools** that combine **modern design, robust architecture, and intelligent automation**. My work spans interactive event pages, eCommerce dashboards, computer vision applications, and innovative prototypes.  
-
----
-
-## 💻 Tech Stack
-
-**Frontend:**  
-React.js, Tailwind CSS, TypeScript, HTML5, CSS3, GSAP, Responsive Design, Animation Libraries  
-
-**Backend:**  
-Flask, Django, Python, PHP, REST APIs, GraphQL, MySQL/PostgreSQL, Server-side Rendering  
-
-**AI / Machine Learning / Computer Vision:**  
-YOLOv8, TensorFlow, PyTorch, OpenCV, Google Cloud Vision API, NLP  
-
-**Tools & Workflow:**  
-Git, GitHub, Postman, VS Code, Debugging & Testing Tools, Deployment (Vercel, Netlify, Heroku, AWS)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-t-shekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aman.tshekar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://amantshekar.github.io/Aman.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌟 Highlights / Key Projects
-- **Interactive Event Pages:** Animated landing pages with dynamic Google Form integrations  
-- **AI-Powered Applications:** Computer vision tools, image detection, object recognition, and automation pipelines  
-- **eCommerce Dashboards:** Admin panels with full CRUD, live server sync, and user role management  
-- **Full-Stack Applications:** Web apps built with Django & Flask for scalable backends  
-- **Rapid Prototypes & Experiments:** Fast development of web apps exploring new tech and UX/UI concepts  
+### 🛠️ Technical Ecosystem
+
+**Frontend & Design** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+
+**Backend & Database** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat-square&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Machine Learning** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
-## 🎨 What I Do
-- Build **modern web apps** with responsive and interactive UI/UX  
-- Develop **full-stack applications** with clean, scalable architecture  
-- Integrate **AI & ML models** into web solutions for smart features  
-- Craft **immersive animations** and interactive visual experiences  
-- Explore **cutting-edge tech** in Python, AI, and web development  
+### 🚀 Featured Engineering Projects
+
+#### 🧠 **SmartHire: Augmented Recruitment System**
+*An open-source, AI-driven platform designed to streamline talent acquisition.*
+* **Innovation:** Automated resume parsing and intelligent candidate ranking using local LLMs (Llama 3.2).
+
+#### 👁️ **Vision-Integrated Dashboards**
+*Custom eCommerce and Admin panels with integrated Computer Vision.*
+* **Innovation:** Built real-time object detection pipelines using YOLOv8 synced with digital CRUD interfaces.
 
 ---
 
-## 🔗 Connect With Me
-- **LinkedIn:** [linkedin](https://www.linkedin.com/in/aman-t-shekar/)  
-- **Portfolio / Website:** [Website](https://amantshekar.github.io/Aman.github.io/)  
-- **Email:** [Mail](mailto:aman.tshekar@gmail.com)  
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amantshekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantshekar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## ✨ Fun Fact
-I thrive at the intersection of **creativity, technology, and innovation**. Always exploring, always learning, always building.  
+### ✨ Philosophy & Beyond
+* **Minimalist UI:** Obsessed with Apple-inspired aesthetics—dark themes and intentional whitespace.
+* **Performance:** Optimizing for sub-second API response times and clean system architecture.
+* **Fun Fact:** I thrive at the intersection of technology and the outdoors—catch me trekking or taking cinematic shots with my DSLR.
 
----
-
-Thanks for visiting! Check out my repositories to see my work in action.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amantshekar&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
