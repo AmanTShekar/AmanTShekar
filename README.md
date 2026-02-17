@@ -31,10 +31,6 @@ I engineer **high-performance digital ecosystems** where sophisticated AI meets 
 
 ---
 
-### 🖋️ EXECUTIVE SUMMARY
-I engineer **high-performance digital ecosystems** where sophisticated AI meets seamless user interfaces. With a foundation in the **MERN stack** and **Python-driven intelligence**, I specialize in transforming complex business logic into scalable, immersive applications. My approach prioritizes **architectural integrity, sub-second latency, and minimalist aesthetics.**
----
-
 ### ⚙️ CORE COMPETENCIES
 * **System Design:** Architecting modular, maintainable codebases using SOLID principles.
 * **AI Integration:** Deploying real-time Computer Vision and NLP models into web environments.
