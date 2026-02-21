@@ -3,7 +3,7 @@
   <h3>Digital Architect & Full-Stack Engineer</h3>
 
   <p>
-    <a href="https://amantshekar.github.io/Aman.github.io/">
+    <a href="https://amantshekar.github.io/amanthekar.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/aman-t-shekar/">
