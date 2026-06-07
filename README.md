@@ -2,7 +2,7 @@
 
 <!-- Centered Custom Image Frame optimized for Firefly 20250112233643.jpg portrait crop -->
 <div>
-  <img src="Firefly 20250112233643.png" width="340" alt="Aman T Shekar Avatar" />
+  <img src="Firefly 20250112233641.png" width="340" alt="Aman T Shekar Avatar" />
 </div>
 
 <br/><br/>
