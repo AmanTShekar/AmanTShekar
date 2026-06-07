@@ -2,7 +2,7 @@
 
 <!-- Centered Custom Image Placeholder Frame -->
 <div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #7C3AED); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
-  <img src="https://github.com/AmanTShekar/AmanTShekar/blob/main/Firefly%2020250112233643.png" width="800" height="1000" style="border-radius: 14px; display: block; border: 4px ; margin : 30px ;solid:  #1a1a1a; object-fit: cover;" alt="Custom Placeholder Avatar" />
+  <img src="https://github.com/AmanTShekar/AmanTShekar/blob/main/Firefly%2020250112233643.png" width="500" height="600" style="border-radius: 14px; display: block; border: 4px ;solid:  #1a1a1a; object-fit: cover;" alt="Custom Placeholder Avatar" />
 </div>
 
 <br/><br/>
