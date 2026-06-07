@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Centered Custom Image Frame optimized for Firefly 20250112233643.jpg portrait crop -->
-<div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #FFB347); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
- <img src="Firefly 20250112233643.png" width="340" height="440" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: cover; object-position: center 20%;" alt="Aman T Shekar Avatar" />
+<div style="width: 340px; height: 440px; overflow: hidden; border-radius: 14px; border: 4px solid #1a1a1a;">
+  <img src="Firefly 20250112233643.png" width="340" style="display: block; min-height: 100%; margin-top: -80px;" alt="Aman T Shekar Avatar" />
 </div>
 
 <br/><br/>
