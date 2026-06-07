@@ -1,10 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=280&section=header)
-
 <div align="center">
 
-<!-- Futuristic Angular Hero Avatar Holder -->
+<!-- Centered Custom Image Placeholder Frame -->
 <div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #7C3AED); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
-  <img src="https://github.com/AmanTShekar.png" width="140" height="140" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: cover;" alt="Aman T Shekar Avatar" />
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=300&auto=format&fit=crop" width="140" height="140" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: cover;" alt="Custom Placeholder Avatar" />
 </div>
 
 <br/><br/>
@@ -115,5 +113,3 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 <div align="center">
   <sub>B.Tech Computer Science · College of Engineering Munnar · Kerala, India</sub>
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
