@@ -79,27 +79,3 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 ### ✦ [NEXMART](https://github.com/AmanTShekar/NEXMART)
 * Architected a modular frontend workspace optimized for complex client state lifecycles and component composition.
 * Reduced frame rendering bottlenecks across large interactive grid layouts via systematic virtual scroll implementations.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" width="490" />
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=minimal&hide_border=true&area=true" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" width="100%" />
-</picture>
-
----
-
-<div align="center">
-  <sub>B.Tech Computer Science · College of Engineering Munnar · Kerala, India</sub>
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
