@@ -43,7 +43,7 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 [![Stars](https://img.shields.io/github/stars/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Stars&color=FFD700)](https://github.com/AmanTShekar/Zenith-CMS)
 [![Forks](https://img.shields.io/github/forks/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Forks&color=7c3aed)](https://github.com/AmanTShekar/Zenith-CMS/fork)
-[![Issues](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=EA4335)](https://github.com/AmanTShekar/Zenith-CMS/issues)
+[![Legal](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=EA4335)](https://github.com/AmanTShekar/Zenith-CMS/issues)
 [![License](https://img.shields.io/github/license/AmanTShekar/Zenith-CMS?style=for-the-badge&color=22c55e)](https://github.com/AmanTShekar/Zenith-CMS/blob/main/LICENSE)
 
 </div>
@@ -63,23 +63,19 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 ## Projects
 
 ### ✦ [Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)
-*Core Architect & Maintainer*
-* **Architecture:** Engineered inside a strict Turborepo TypeScript monorepo backed by Drizzle ORM and PostgreSQL.
-* **Security & Multi-Tenancy:** Implemented bulletproof per-tenant schema isolation and secure HMAC-signed API request validation layers.
-* **Core Features:** Developed fluid, section-based visual page editing pipelines alongside a native, local AI proxy layer for complete content automation.
+* Turborepo monorepo utilizing Drizzle ORM and PostgreSQL.
+* Bulletproof per-tenant schema isolation and secure HMAC-signed API request validation.
+* Section-based visual page editing pipelines paired with a native local AI proxy layer.
 
 ### ✦ [zenith-terminal-buddy](https://github.com/AmanTShekar/zenith-terminal-buddy)
-*Creator*
-* **Mechanics:** VS Code extension engine built to intercept live terminal output runtime streams natively.
-* **Capabilities:** Routes live shell logs through local LLM pipelines for context-aware error diagnosis, real-time fix generation, and dangerous command protection.
+* VS Code extension engine engineered to intercept live terminal output runtime streams natively.
+* Secure local LLM pipeline processing for context-aware error diagnosis and real-time fix generations.
 
 ### ✦ [PRISM](https://github.com/AmanTShekar/PRISM)
-*Developer*
-* **Scope:** Scalable, performance-optimized frontend architectures featuring clean state lifecycle separation and crisp interface designs.
+* Scalable, performance-optimized frontend architectures implementing clean modular layout systems.
 
 ### ✦ [NEXMART](https://github.com/AmanTShekar/NEXMART)
-*Developer*
-* **Scope:** Production-ready e-commerce core infrastructure handling secure database schemas, modular API routing structures, and lightning-fast asset indexing.
+* E-commerce infrastructure optimized for secure schema definitions, fast indexing, and modern backend routing.
 
 ---
 
