@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Centered Custom Image Placeholder Frame -->
-<div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #7C3AED); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
-  <img src="https://github.com/AmanTShekar/AmanTShekar/blob/main/Firefly%2020250112233643.png" width="500" height="600" style="border-radius: 14px; display: block; border: 4px ;solid:  #1a1a1a; object-fit: fit;" alt="Custom Placeholder Avatar" />
+<!-- Centered Custom Image Frame optimized for Firefly 20250112233643.jpg portrait crop -->
+<div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #FFB347); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
+  <img src="[YOUR_UPLOADED_IMAGE_LINK_HERE](https://github.com/AmanTShekar/AmanTShekar/blob/main/Firefly%2020250112233643.png)" width="140" height="140" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: cover; object-position: center 65%;" alt="Aman T Shekar Avatar" />
 </div>
 
 <br/><br/>
@@ -18,6 +18,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.tshekar@gmail.com)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=ffffff&style=for-the-badge)
 
 </div>
 
@@ -82,6 +84,14 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
+      </td>
+    </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 10px;">
         <img src="https://streak-stats.demolab.com?user=AmanTShekar&theme=tokyonight&hide_border=true&card_width=490&background=1a1a1a&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF&sideLabels=FFFFFF" height="180" />
