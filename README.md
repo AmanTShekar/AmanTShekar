@@ -2,16 +2,16 @@
 
 <div align="center">
 
-<!-- Hero Section with Layered Borders -->
-<div style="display: inline-block; padding: 6px; background: linear-gradient(135deg, #00F5D4, #7C3AED); border-radius: 50%; box-shadow: 0 8px 24px rgba(0, 245, 212, 0.25);">
-  <img src="https://github.com/AmanTShekar.png" width="160" style="border-radius: 50%; display: block; border: 4px solid #1a1a1a;" alt="Aman T Shekar Avatar" />
+<!-- Futuristic Angular Hero Avatar Holder -->
+<div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #7C3AED); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
+  <img src="https://github.com/AmanTShekar.png" width="140" height="140" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: cover;" alt="Aman T Shekar Avatar" />
 </div>
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Aman+T+Shekar" alt="Aman T Shekar Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG Description" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+Headless+CMS+Architecture;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG Description" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 Full-stack engineer and open-source builder based in Kerala, India. I write production-grade TypeScript and Python across the whole stack — from REST APIs and database schemas to VS Code extension APIs and LLM integration layers.
 
-Currently building **[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** — an open-source multi-tenant headless CMS targeting production parity with Payload and Strapi. Core work spans per-tenant schema isolation, HMAC-signed API request signing, section-based page editing, and a built-in AI proxy layer — all in a Turborepo TypeScript monorepo backed by Drizzle ORM and PostgreSQL.
+Currently building **[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** — an open-source multi-tenant headless CMS targeting production-grade infrastructure. Core work spans per-tenant schema isolation, HMAC-signed API request signing, section-based page editing, and a built-in AI proxy layer — all in a Turborepo TypeScript monorepo backed by Drizzle ORM and PostgreSQL.
 
 Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zenith-terminal-buddy)** — a VS Code extension that intercepts live terminal output and routes it through an LLM pipeline for real-time error analysis, fix suggestions, and dangerous-command interception.
 
@@ -48,7 +48,7 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 </div>
 
-**[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** is a production-grade open-source headless CMS built for multi-tenant SaaS. Targeting feature parity with Payload CMS and Strapi — per-tenant schema isolation, HMAC-signed API security, section-based page composition, and a native AI proxy layer, all in a TypeScript monorepo.
+**[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** is a production-grade open-source headless CMS built for multi-tenant SaaS. Implements strict per-tenant schema isolation, HMAC-signed API security, section-based page composition, and a native AI proxy layer, all in a TypeScript monorepo.
 
 | Layer | Tech |
 |:---|:---|
@@ -63,40 +63,29 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 ## Projects
 
 ### ✦ [Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)
-* Turborepo monorepo utilizing Drizzle ORM and PostgreSQL.
-* Bulletproof per-tenant schema isolation and secure HMAC-signed API request validation.
-* Section-based visual page editing pipelines paired with a native local AI proxy layer.
+* Engineered strict database multi-tenancy utilizing Drizzle ORM and PostgreSQL with dynamic runtime connection pooling.
+* Designed a stateless HMAC API request signing layer to enforce message integrity across distributed services.
+* Developed an abstract component serialization protocol for section-based visual layouts with local AI content automation proxies.
 
 ### ✦ [zenith-terminal-buddy](https://github.com/AmanTShekar/zenith-terminal-buddy)
-* VS Code extension engine engineered to intercept live terminal output runtime streams natively.
-* Secure local LLM pipeline processing for context-aware error diagnosis and real-time fix generations.
+* Intercepts standard streams (stdout/stderr) inside the VS Code terminal runner using extension API hooks.
+* Implemented a zero-latency local context parser that optimizes prompt assembly for local inference engines.
+* Constructed an AST-like shell parsing pattern to evaluate runtime command chains and prevent dangerous filesystem side effects.
 
 ### ✦ [PRISM](https://github.com/AmanTShekar/PRISM)
-* Scalable, performance-optimized frontend architectures implementing clean modular layout systems.
+* Developed an asynchronous web scraping engine designed with proxy rotation and rate-limit backoffs to harvest product indices.
+* Integrated the Google Cloud Vision API pipeline to parse unmapped graphic text payloads into structured search vectors.
 
 ### ✦ [NEXMART](https://github.com/AmanTShekar/NEXMART)
-* E-commerce infrastructure optimized for secure schema definitions, fast indexing, and modern backend routing.
+* Architected a modular frontend workspace optimized for complex client state lifecycles and component composition.
+* Reduced frame rendering bottlenecks across large interactive grid layouts via systematic virtual scroll implementations.
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding-top: 10px;">
-        <img src="https://streak-stats.demolab.com?user=AmanTShekar&theme=tokyonight&hide_border=true&card_width=490&background=1a1a1a&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF&sideLabels=FFFFFF" height="180" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" width="490" />
 </div>
 
 <br/>
