@@ -1,82 +1,141 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
-<br/>
-<br/>
-</div>About
-Full-stack engineer and open-source builder based in Kerala, India. I write production-grade TypeScript and Python across the whole stack — from REST APIs and database schemas to VS Code extension APIs and LLM integration layers.
-Currently building Zenith CMS — an open-source multi-tenant headless CMS targeting production parity with Payload and Strapi. Core work spans per-tenant schema isolation, HMAC-signed API request signing, section-based page editing, and a built-in AI proxy layer — all in a Turborepo TypeScript monorepo backed by Drizzle ORM and PostgreSQL.
-Also the author of zenith-terminal-buddy — a VS Code extension that intercepts live terminal output and routes it through an LLM pipeline for real-time error analysis, fix suggestions, and dangerous-command interception.
-Flagship Project · Zenith CMS
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=Aman%20T%20Shekar&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&fontAlign=50)
 
 <div align="center">
-</div>Zenith CMS is a production-grade open-source headless CMS built for multi-tenant SaaS. Targeting feature parity with Payload CMS and Strapi — per-tenant schema isolation, HMAC-signed API security, section-based page composition, and a native AI proxy layer, all in a TypeScript monorepo.
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amantshekar.github.io/amantshekar.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-t-shekar/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.tshekar@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=000000&style=for-the-badge)
+
+</div>
+
+---
+
+## About
+
+Full-stack engineer and open-source builder based in Kerala, India. I write production-grade TypeScript and Python across the whole stack — from REST APIs and database schemas to VS Code extension APIs and LLM integration layers.
+
+Currently building **[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** — an open-source multi-tenant headless CMS targeting production parity with Payload and Strapi. Core work spans per-tenant schema isolation, HMAC-signed API request signing, section-based page editing, and a built-in AI proxy layer — all in a Turborepo TypeScript monorepo backed by Drizzle ORM and PostgreSQL.
+
+Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zenith-terminal-buddy)** — a VS Code extension that intercepts live terminal output and routes it through an LLM pipeline for real-time error analysis, fix suggestions, and dangerous-command interception.
+
+---
+
+## Flagship Project · Zenith CMS
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Stars&color=000000)](https://github.com/AmanTShekar/Zenith-CMS)
+[![Forks](https://img.shields.io/github/forks/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Forks&color=333333)](https://github.com/AmanTShekar/Zenith-CMS/fork)
+[![Issues](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=555555)](https://github.com/AmanTShekar/Zenith-CMS/issues)
+[![License](https://img.shields.io/github/license/AmanTShekar/Zenith-CMS?style=for-the-badge&color=222222)](https://github.com/AmanTShekar/Zenith-CMS/blob/main/LICENSE)
+
+</div>
+
+**[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** is a production-grade open-source headless CMS built for multi-tenant SaaS. Targeting feature parity with Payload CMS and Strapi — per-tenant schema isolation, HMAC-signed API security, section-based page composition, and a native AI proxy layer, all in a TypeScript monorepo.
 
 | Layer | Tech |
-| :--- | :--- |
+|:---|:---|
 | **Monorepo** | Turborepo · TypeScript |
 | **API** | Node.js · Express · HMAC signing |
 | **Database** | PostgreSQL · Drizzle ORM · per-tenant isolation |
 | **AI Layer** | LLM proxy · Ollama integration |
 | **Auth** | JWT · multi-tenant RBAC |
 
-Projects
+---
+
+## Projects
 
 <div align="center">
+
+[![zenith-terminal-buddy](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=zenith-terminal-buddy&theme=dark&hide_border=true)](https://github.com/AmanTShekar/zenith-terminal-buddy)
+[![Zenith CMS](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=Zenith-CMS&theme=dark&hide_border=true)](https://github.com/AmanTShekar/Zenith-CMS)
+
+<!-- Replace PRISM and NEXMART with your exact repo names if cards show blank -->
+[![PRISM](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=PRISM&theme=dark&hide_border=true)](https://github.com/AmanTShekar/PRISM)
+[![NEXMART](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=NEXMART&theme=dark&hide_border=true)](https://github.com/AmanTShekar/NEXMART)
+
 </div>
 
-### ✦ Zenith CMS
-*Core Architect & Maintainer*
-* **Architecture:** Developed within a unified Turborepo monorepo utilizing Drizzle ORM and PostgreSQL.
-* **Security & Isolation:** Implemented strict per-tenant schema isolation alongside secure, HMAC-signed API request verification.
-* **Core Features:** Built an intuitive, section-based visual page composition architecture paired with a native, local AI proxy layer for content automation.
+---
 
-### ✦ Zenith Terminal Buddy
-*Creator*
-* **Mechanics:** Intercepts live terminal output streams and channels them through a secure, local LLM pipeline.
-* **Capabilities:** Delivers context-aware error analysis, generates real-time code fixes, and evaluates inputs to intercept potentially destructive shell commands.
-
-### ✦ PRISM
-*Developer*
-* **Core Engineering:** Advanced technical infrastructure built for performance, scalable rendering pipelines, and clean structural separation.
-
-### ✦ NEXMART
-*Developer*
-* **Architecture:** Production-optimized architectural layout prioritizing backend micro-routing, optimized state flow, and relational database integrity.
-
-Trophies
+## Trophies
 
 <div align="center">
-</div>Tech Stack
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AmanTShekar&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8)
+
+</div>
+
+---
+
+## Tech Stack
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="140"><b>Languages</b></td>
-<td>TypeScript · JavaScript · Python · Java · SQL</td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td>React · Next.js · Tailwind CSS · HTML · CSS</td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td>Node.js · Express · FastAPI · REST APIs</td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td>PostgreSQL · Drizzle ORM · MongoDB · Redis</td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Infra</b></td>
-<td>Docker · GCP · Linux · Vercel · Git · GitHub</td>
+<td><img src="https://skillicons.dev/icons?i=docker,gcp,linux,vercel,git,github&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
-<td>OpenCV · TensorFlow · Ollama LLM Integration</td>
+<td><img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /></td>
 </tr>
 </table>
+
 </div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![Streak](https://streak-stats.demolab.com?user=AmanTShekar&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=minimal&hide_border=true&area=true" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true" width="100%" />
+</picture>
+
+---
 
 <div align="center">
   <sub>B.Tech Computer Science · College of Engineering Munnar · Kerala, India</sub>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=120&section=footer)
