@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Aman%20T%20Shekar&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Aman%20T%20Shekar&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&fontAlign=50)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=580&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=7c3aed&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/AmanTShekar?label=Followers&style=for-the-badge&color=7c3aed)
 
 </div>
 
@@ -40,9 +39,7 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 </div>
 
-**[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** is a production-grade open-source headless CMS built for multi-tenant SaaS. Designed to go head-to-head with Payload CMS and Strapi, it delivers per-tenant schema isolation, HMAC-signed API security, section-based page composition, and a native AI proxy layer — all shipped as a Turborepo TypeScript monorepo.
-
-<div align="center">
+**[Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)** is a production-grade open-source headless CMS built for multi-tenant SaaS. Targeting feature parity with Payload CMS and Strapi — per-tenant schema isolation, HMAC-signed API security, section-based page composition, and a native AI proxy layer, all in a TypeScript monorepo.
 
 | Layer | Tech |
 |:---|:---|
@@ -52,41 +49,20 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 | **AI Layer** | LLM proxy · Ollama integration |
 | **Auth** | JWT · multi-tenant RBAC |
 
-</div>
-
-<div align="center">
-
-<a href="https://star-history.com/#AmanTShekar/Zenith-CMS&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AmanTShekar/Zenith-CMS&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AmanTShekar/Zenith-CMS&type=Date" />
-    <img alt="Zenith CMS Star History" src="https://api.star-history.com/svg?repos=AmanTShekar/Zenith-CMS&type=Date" width="680" />
-  </picture>
-</a>
-
-</div>
-
 ---
 
 ## Projects
-
-<!-- ✅ zenith-terminal-buddy — auto-works, confirmed repo name -->
-<!-- ✅ Zenith-CMS — auto-works, confirmed repo name -->
-<!-- ⚠️ PRISM — replace 'PRISM' below with your exact repo name on GitHub if different -->
-<!-- ⚠️ NEXMART — replace 'NEXMART' below with your exact repo name on GitHub if different -->
 
 <div align="center">
 
 [![zenith-terminal-buddy](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=zenith-terminal-buddy&theme=tokyonight&hide_border=true)](https://github.com/AmanTShekar/zenith-terminal-buddy)
 [![Zenith CMS](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=Zenith-CMS&theme=tokyonight&hide_border=true)](https://github.com/AmanTShekar/Zenith-CMS)
 
+<!-- Replace PRISM and NEXMART with your exact repo names if cards show blank -->
 [![PRISM](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=PRISM&theme=tokyonight&hide_border=true)](https://github.com/AmanTShekar/PRISM)
 [![NEXMART](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=NEXMART&theme=tokyonight&hide_border=true)](https://github.com/AmanTShekar/NEXMART)
 
 </div>
-
-> [!WARNING]
-> **Pinned cards for PRISM and NEXMART** — if those cards show blank after you paste this, your repo name on GitHub is different. Go to your GitHub profile, find the exact repo name, and replace `PRISM` / `NEXMART` in the two URLs above.
 
 ---
 
@@ -102,50 +78,36 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+<div align="center">
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,gcp,linux,vercel,git,github&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /></td>
+</tr>
+</table>
 
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### Infra & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-### AI & ML
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=for-the-badge&logoColor=white" />
-</p>
+</div>
 
 ---
 
@@ -169,48 +131,6 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=minimal&hide_border=true&area=true" />
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </picture>
-
----
-
-## Contribution Snake
-
-<!-- ⚠️ The snake below requires a one-time GitHub Action setup (5 min). -->
-<!-- Until you do that, delete the two lines below — they'll show a broken image. -->
-<!-- Setup guide: https://github.com/Platane/snk#usage -->
-<!--
-  STEPS:
-  1. Create file: .github/workflows/snake.yml in this (AmanTShekar/AmanTShekar) repo
-  2. Paste this content into it:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: AmanTShekar
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Go to Actions tab → run the workflow manually once
-  4. Then delete this comment block — the image below will auto-render
--->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AmanTShekar/AmanTShekar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
 
 ---
 
