@@ -1,18 +1,18 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=Aman%20T%20Shekar&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=200&section=header&text=Aman%20T%20Shekar&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&fontAlign=50)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amantshekar.github.io/amantshekar.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-t-shekar/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.tshekar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://amantshekar.github.io/amantshekar.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/aman-t-shekar/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:aman.tshekar@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=000000&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=00F5D4&style=for-the-badge)
 
 </div>
 
@@ -32,10 +32,10 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Stars&color=000000)](https://github.com/AmanTShekar/Zenith-CMS)
-[![Forks](https://img.shields.io/github/forks/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Forks&color=333333)](https://github.com/AmanTShekar/Zenith-CMS/fork)
-[![Issues](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=555555)](https://github.com/AmanTShekar/Zenith-CMS/issues)
-[![License](https://img.shields.io/github/license/AmanTShekar/Zenith-CMS?style=for-the-badge&color=222222)](https://github.com/AmanTShekar/Zenith-CMS/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Stars&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS)
+[![Forks](https://img.shields.io/github/forks/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Forks&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS/fork)
+[![Issues](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS/issues)
+[![License](https://img.shields.io/github/license/AmanTShekar/Zenith-CMS?style=for-the-badge&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS/blob/main/LICENSE)
 
 </div>
 
@@ -53,61 +53,37 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 ## Projects
 
-<div align="center">
+### ✦ [Zenith CMS](https://github.com/AmanTShekar/Zenith-CMS)
+*Core Architect & Maintainer*
+* **Architecture:** Engineered inside a strict Turborepo TypeScript monorepo backed by Drizzle ORM and PostgreSQL.
+* **Security & Multi-Tenancy:** Implemented bulletproof per-tenant schema isolation and secure HMAC-signed API request validation layers.
+* **Core Features:** Developed fluid, section-based visual page editing pipelines alongside a native, local AI proxy layer for complete content automation.
 
-[![zenith-terminal-buddy](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=zenith-terminal-buddy&theme=dark&hide_border=true)](https://github.com/AmanTShekar/zenith-terminal-buddy)
-[![Zenith CMS](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=Zenith-CMS&theme=dark&hide_border=true)](https://github.com/AmanTShekar/Zenith-CMS)
+### ✦ [zenith-terminal-buddy](https://github.com/AmanTShekar/zenith-terminal-buddy)
+*Creator*
+* **Mechanics:** VS Code extension engine built to intercept live terminal output runtime streams natively.
+* **Capabilities:** Routes live shell logs through local LLM pipelines for context-aware error diagnosis, real-time fix generation, and dangerous command protection.
 
-<!-- Replace PRISM and NEXMART with your exact repo names if cards show blank -->
-[![PRISM](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=PRISM&theme=dark&hide_border=true)](https://github.com/AmanTShekar/PRISM)
-[![NEXMART](https://github-readme-stats.vercel.app/api/pin/?username=AmanTShekar&repo=NEXMART&theme=dark&hide_border=true)](https://github.com/AmanTShekar/NEXMART)
+### ✦ [PRISM](https://github.com/AmanTShekar/PRISM)
+*Developer*
+* **Scope:** Scalable, performance-optimized frontend architectures featuring clean state lifecycle separation and crisp interface designs.
 
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmanTShekar&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8)
-
-</div>
+### ✦ [NEXMART](https://github.com/AmanTShekar/NEXMART)
+*Developer*
+* **Scope:** Production-ready e-commerce core infrastructure handling secure database schemas, modular API routing structures, and lightning-fast asset indexing.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Infra</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,gcp,linux,vercel,git,github&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>AI / ML</b></td>
-<td><img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /></td>
-</tr>
-</table>
-
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **LANGUAGES** | TypeScript · JavaScript · Python · Java · SQL |
+| **FRONTEND** | React · Next.js · Tailwind CSS · Semantic HTML · CSS |
+| **BACKEND** | Node.js · Express · FastAPI · REST APIs |
+| **DATABASES** | PostgreSQL · Drizzle ORM · MongoDB · Redis |
+| **INFRASTRUCTURE** | Docker · GCP · Linux · Vercel · Git · GitHub |
+| **AI / ML** | OpenCV · TensorFlow · Ollama LLM Integration |
 
 ---
 
@@ -115,21 +91,21 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&icon_color=00F5D4&text_color=FFFFFF&title_color=00F5D4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=dark&hide_border=true&langs_count=6&text_color=FFFFFF&title_color=00F5D4" />
 
 </div>
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=AmanTShekar&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=AmanTShekar&theme=dark&hide_border=true&card_width=500&stroke=00F5D4&sideLabels=FFFFFF&ring=00F5D4&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true&color=00F5D4" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=minimal&hide_border=true&area=true" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true" width="100%" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true&color=00F5D4" width="100%" />
 </picture>
 
 ---
@@ -138,4 +114,4 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
   <sub>B.Tech Computer Science · College of Engineering Munnar · Kerala, India</sub>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=120&section=footer)
