@@ -2,11 +2,14 @@
 
 <div align="center">
 
-<img src="https://github.com/AmanTShekar.png" width="150" style="border-radius: 50%; border: 3px solid #00F5D4;" alt="Aman T Shekar Avatar" />
+<!-- Hero Section with Layered Borders -->
+<div style="display: inline-block; padding: 6px; background: linear-gradient(135deg, #00F5D4, #7C3AED); border-radius: 50%; box-shadow: 0 8px 24px rgba(0, 245, 212, 0.25);">
+  <img src="https://github.com/AmanTShekar.png" width="160" style="border-radius: 50%; display: block; border: 4px solid #1a1a1a;" alt="Aman T Shekar Avatar" />
+</div>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Aman+T+Shekar" alt="Aman T Shekar Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Aman+T+Shekar" alt="Aman T Shekar Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG Description" />
 
@@ -83,22 +86,29 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 10px;">
+        <img src="https://streak-stats.demolab.com?user=AmanTShekar&theme=tokyonight&hide_border=true&card_width=490&background=1a1a1a&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF&sideLabels=FFFFFF" height="180" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-
-[![Streak](https://streak-stats.demolab.com?user=AmanTShekar&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
-
-</div>
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=minimal&hide_border=true&area=true" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" width="100%" />
 </picture>
 
 ---
