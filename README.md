@@ -19,8 +19,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=ffffff&style=for-the-badge)
-
 </div>
 
 ---
