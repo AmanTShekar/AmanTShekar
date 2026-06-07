@@ -1,18 +1,24 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=200&section=header&text=Aman%20T%20Shekar&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=280&section=header)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG" />
+<img src="https://github.com/AmanTShekar.png" width="150" style="border-radius: 50%; border: 3px solid #00F5D4;" alt="Aman T Shekar Avatar" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Aman+T+Shekar" alt="Aman T Shekar Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+production-grade+open-source+infrastructure;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+FastAPI;Multi-tenant+CMS+competing+with+Payload+%26+Strapi;Kerala%2C+India+%E2%86%92+Open+to+SWE+roles" alt="Typing SVG Description" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://amantshekar.github.io/amantshekar.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/aman-t-shekar/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:aman.tshekar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://amantshekar.github.io/amantshekar.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-t-shekar/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.tshekar@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=00F5D4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=ffffff&style=for-the-badge)
 
 </div>
 
@@ -32,10 +38,10 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Stars&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS)
-[![Forks](https://img.shields.io/github/forks/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Forks&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS/fork)
-[![Issues](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS/issues)
-[![License](https://img.shields.io/github/license/AmanTShekar/Zenith-CMS?style=for-the-badge&color=000000&labelColor=1A1A1A)](https://github.com/AmanTShekar/Zenith-CMS/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Stars&color=FFD700)](https://github.com/AmanTShekar/Zenith-CMS)
+[![Forks](https://img.shields.io/github/forks/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Forks&color=7c3aed)](https://github.com/AmanTShekar/Zenith-CMS/fork)
+[![Issues](https://img.shields.io/github/issues/AmanTShekar/Zenith-CMS?style=for-the-badge&label=Issues&color=EA4335)](https://github.com/AmanTShekar/Zenith-CMS/issues)
+[![License](https://img.shields.io/github/license/AmanTShekar/Zenith-CMS?style=for-the-badge&color=22c55e)](https://github.com/AmanTShekar/Zenith-CMS/blob/main/LICENSE)
 
 </div>
 
@@ -74,38 +80,25 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 ---
 
-## Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **LANGUAGES** | TypeScript · JavaScript · Python · Java · SQL |
-| **FRONTEND** | React · Next.js · Tailwind CSS · Semantic HTML · CSS |
-| **BACKEND** | Node.js · Express · FastAPI · REST APIs |
-| **DATABASES** | PostgreSQL · Drizzle ORM · MongoDB · Redis |
-| **INFRASTRUCTURE** | Docker · GCP · Linux · Vercel · Git · GitHub |
-| **AI / ML** | OpenCV · TensorFlow · Ollama LLM Integration |
-
----
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&icon_color=00F5D4&text_color=FFFFFF&title_color=00F5D4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=dark&hide_border=true&langs_count=6&text_color=FFFFFF&title_color=00F5D4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=AmanTShekar&theme=dark&hide_border=true&card_width=500&stroke=00F5D4&sideLabels=FFFFFF&ring=00F5D4&dates=FFFFFF)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=AmanTShekar&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true&color=00F5D4" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=minimal&hide_border=true&area=true" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=github-dark&hide_border=true&area=true&color=00F5D4" width="100%" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanTShekar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </picture>
 
 ---
@@ -114,4 +107,4 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
   <sub>B.Tech Computer Science · College of Engineering Munnar · Kerala, India</sub>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
