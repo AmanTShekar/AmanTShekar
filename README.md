@@ -18,9 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.tshekar@gmail.com)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=amantshekar&label=Profile+Views&color=ffffff&style=for-the-badge)
-
+ 
 </div>
 
 ---
@@ -84,13 +82,6 @@ Also the author of **[zenith-terminal-buddy](https://github.com/AmanTShekar/zeni
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AmanTShekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTShekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00F5D4&text_color=FFFFFF&bg_color=1a1a1a" height="190" />
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 10px;">
