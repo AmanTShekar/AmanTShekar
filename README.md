@@ -2,7 +2,7 @@
 
 <!-- Centered Custom Image Frame optimized for Firefly 20250112233643.jpg portrait crop -->
 <div style="display: inline-block; padding: 2px; background: linear-gradient(135deg, #00F5D4, #FFB347); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 245, 212, 0.35);">
-  <img src="https://github.com/AmanTShekar/AmanTShekar/blob/main/Firefly%2020250112233643.png" width="340" height="340" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: fill; object-position: center 10%;" alt="Aman T Shekar Avatar" />
+  <img src="https://github.com/AmanTShekar/AmanTShekar/blob/main/Firefly%2020250112233643.png" width="340" height="340" style="border-radius: 14px; display: block; border: 4px solid #1a1a1a; object-fit: cover; object-position: center 10%;" alt="Aman T Shekar Avatar" />
 </div>
 
 <br/><br/>
